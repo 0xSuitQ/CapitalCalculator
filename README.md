@@ -26,3 +26,5 @@ As a result, you should have a CLI application that receives inputs “N”, “
 	- Enter the capital: 1500
 	- Enter the gains array separated by space: 500 200 300 100 400 200 300 100 50 300
 	- Enter the prices array separated by space: 350 400 200 500 100 150 400 200 400 300
+
+Approximate amount of time spent on the task: 2h
