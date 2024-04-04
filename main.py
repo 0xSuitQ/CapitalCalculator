@@ -1,7 +1,3 @@
-"""
-
-"""
-
 def find_capital(n, c, gains, prices):
     if memo[n][c] != None:
         return memo[n][c]
